@@ -42,8 +42,8 @@ Follow these steps to set up and run the application:
 
 - Launch the application on your emulator or physical device.
 - Enter the following credentials to log in:
-  - **Email:** `baslaworku@gmail.com`
-  - **Password:** `Password@123`
+  - **Email:** `wyuab@gmail.com`
+  - **Password:** `Password@!1224`
 - Observe the feedback message:
   - "Login successful!" for correct credentials.
   - "Invalid credentials" for incorrect credentials.
